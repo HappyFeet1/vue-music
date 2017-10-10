@@ -28,6 +28,7 @@ module.exports = {
     // 不检测新文件末尾是否为空
     "eol-last":0,
     //不检测函数名前面是否有空格
-    "space-before-function-paren":0
+    "space-before-function-paren":0,
+    "no-unused-vars": 0
   }
 };
