@@ -2,7 +2,7 @@
   "name": "vue-music",
   "version": "1.0.0",
   "description": "音乐播放器",
-  "author": "ustbhuangyi <280309453@qq.com>",
+  "author": "Andy <627498894@qq.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
@@ -19,7 +19,6 @@
     "vue-lazyload": "1.0.3",
     "axios": "^0.16.1",
     "jsonp": "0.2.1",
-    "better-scroll": "^0.1.15",
     "create-keyframe-animation": "^0.1.0",
     "js-base64": "^2.1.9",
     "lyric-parser": "^1.0.1",
